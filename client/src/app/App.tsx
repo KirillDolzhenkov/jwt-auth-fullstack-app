@@ -1,5 +1,5 @@
 import {Route, BrowserRouter as Router, Routes} from 'react-router-dom';
-import {DashBoard, Home} from '../Pages';
+import {DashBoard, Home} from '../pages';
 
 function App() {
 
